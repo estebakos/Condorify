@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Condorify</string>
+    <string name="com_spotify_sdk_redirect_scheme">http://</string>
+    <string name="com_spotify_sdk_redirect_host">condorify.io/callback/</string>
+    <string name="str_spotify_login">Log in with Spotify</string>
+    <string name="str_search">Search</string>
+    <string name="str_login_required">To access Condorify content you must log in with Spotify</string>
+    <string name="str_authentication_required">Log in required</string>
+    <string name="str_popularity_minimum">0%</string>
+    <string name="str_popularity_max">100%</string>
+    <string name="str_search_condorify">Search for your favorite artists on Condorify</string>
+    <string name="str_artist_not_found">Your search returned no results</string>
+    <string name="str_album_name">Album name</string>
+    <string name="str_open_on_spotify">View on Spotify</string>
+    <string name="str_unknown_error">Unknown Error</string>
+</resources>

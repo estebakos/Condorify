@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSpotify">#00EE64</color>
+    <color name="colorBlackTransparency">#60000000</color>
+</resources>
